@@ -1,7 +1,7 @@
 # Running the code
 ___
 
-Edit test case in `Line 20 & 21` as the shown below 
+Clone the project and edit test case in `Line 20 & 21` as the shown below 
 
 ```python
 wordList = ["ab","ab"]
